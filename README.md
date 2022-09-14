@@ -6,7 +6,7 @@ This course provides an introduction to logic design and basic tools for the des
 
 ## Course Objective
 
-The objectives of this course are-
+The objectives of this course are
 * to introduce Boolean logic operation and Boolean Algebra
 * to teach students how to use Boolean Algebra and K-maps to realize two-level minimal/optimal combinational circuits
 * to exposed students in the introductory design process of combinational and sequential circuits
