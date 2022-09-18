@@ -1,4 +1,4 @@
-# CSE-231-Digital-Logic-Design
+# CSE-231-Digital-Logic
 
 ## Course Summary
 
